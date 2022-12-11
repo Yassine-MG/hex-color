@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+    font-family: sans-serif;
+}
+button{
+    padding: 10px 20px;
+    border:  none;
+    cursor: pointer;
+    background-color: rgb(192, 14, 43);
+    border-radius: 10px;
+    transition: all ease-in 0.2s;
+    color: #fff;
+}
+button:hover{
+    color: rgb(187, 98, 255);
+    background-color: rgb(62, 83, 83)
+}
